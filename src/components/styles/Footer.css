@@ -1,0 +1,24 @@
+.footer {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
+
+.contact-section {
+  margin-bottom: 20px;
+}
+
+.contact-section h3 {
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.links a {
+  margin-right: 15px;
+  text-decoration: none;
+  color: #333;
+}
+
+.links a:last-child {
+  margin-right: 0;
+}
