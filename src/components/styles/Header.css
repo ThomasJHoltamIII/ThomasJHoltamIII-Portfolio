@@ -1,12 +1,18 @@
-.header {
-  background: #f9b713;
-  height: 200px;
+.side-navbar {
+  width: 150px;
+  position: fixed;
+  height: 100vh;
+  background: #5e6e73;
+  padding-top: 20px; 
 }
 
-.header h1 {
-  margin: 0;
-  padding-top: 75px;
-  text-align: center;
-  color: white;
-  font-size: 3rem;
+.nav-item .nav-link {
+  color: white; 
 }
+
+.nav-link.active {
+  font-weight: bold;
+  background-color: #A4A4A4;
+}
+
+

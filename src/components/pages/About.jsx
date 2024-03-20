@@ -1,13 +1,11 @@
 import Footer from './Footer'
+import '../styles/Main.css';
 
 export default function About() {
   return (
-    <div>
-      <h1>About Me!</h1>
-      <title>
-        Thomas John Holtam III
-      </title>
-      <p>
+    <div className='body'>
+      <h1 className="hero">Thomas John Holtam III</h1>
+      <p className='content'>
       Hello and welcome! In my day-to-day life, I love building and making things, from digital work
 like some of the projects on this site, modding video games, and physical crafts at my job.
 as a lead for a custom design studio where I have made a vast number of things, such as

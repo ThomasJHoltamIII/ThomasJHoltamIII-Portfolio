@@ -10,9 +10,9 @@ export default function Footer() {
                 <p>Phone: 720-341-5480</p>
             </div>
             <div className="links">
-                <a href="#link1">#</a>
-                <a href="#link2">#</a>
-                <a href="#link3">#</a>
+                <a href="https://github.com/ThomasJHoltamIII">Github</a>
+                <a href="#placeholder">linkedIn</a>
+                {/* <a href="#link3">#</a> */}
             </div>
         </footer>
     );
